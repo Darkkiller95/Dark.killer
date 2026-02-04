@@ -1,0 +1,9 @@
+{
+  "name": "darkkiller-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@adiwajshing/baileys": "^6.6.0",
+    "dotenv": "^16.0.0"
+  }
+}
